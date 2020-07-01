@@ -1,6 +1,6 @@
 let elmButton = document.querySelector("#submit");
 
-if (elmButton) {
+
   elmButton.addEventListener(
     "click",
     e => {
@@ -25,4 +25,4 @@ if (elmButton) {
     },
     false
   );
-}
+
